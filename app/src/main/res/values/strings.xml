@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntegrationWithWebServices</string>
+    <string name="download_with_glide">download with glide</string>
+    <string name="download_with_http_connection">download with HTTP connection</string>
+    <string name="display_list_with_http">display list with Http</string>
+    <string name="display_list_with_retrofit">display list with retrofit</string>
+</resources>
